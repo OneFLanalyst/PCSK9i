@@ -1,5 +1,6 @@
 # PCSK9i
 PCORnet-PCSK9i
+
 Description:Query identifies four mutually exclusive groups (CHD/CAD, FH, LDL>=130 (LDL), and dyslipidemia) from 1/1/2015-3/31/2017 with 
 DX and lab data. Descriptive analysis will be done on demographics, diagnosis, procedures, vital, lab_result_cm, and prescribing/dispensing data. Aggregate output at the DataMart- level produced.
 
