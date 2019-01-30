@@ -6,6 +6,8 @@ DX and lab data. Descriptive analysis will be done on demographics, diagnosis, p
 Query Request:
 PCORnet CDM V3.1 format
 
+Each datamart will need to supply a supplemental table containing Rx_Providerid, ProviderID, and Healthcare Provider Taxonomy Code.
+
 Running the SAS Program:
 Open the sasprograms folder and open the SAS file ‘master.sas’ using SAS 9.3+
 
