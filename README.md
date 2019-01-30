@@ -37,6 +37,7 @@ Open the sasprograms folder and open the SAS file ‘master.sas’ using SAS 9.3
   viii. Edit the DMID %LET statement and the SITEID %LET statement to contain your designated DataMart ID and Site ID.
 
 Files included in Query Request
+
 	1. Workplan
 	2. SAS program file
 		a. Master.sas
@@ -51,4 +52,4 @@ Files included in Query Request
 		• PCSK9i_RCR_case.sas
 		• PCSK9i_RCR_ascvd.sas
 		• PCSK9i_RCR_vital.sas
-• PCSK9i_RCR_analysis.sas
+		• PCSK9i_RCR_analysis.sas
