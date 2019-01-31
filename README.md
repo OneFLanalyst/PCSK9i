@@ -43,10 +43,10 @@ Files included in Query Request
 	2. SAS program file
 		a. Master.sas
 	3. Infolder files
-		• code_list_disp.sas7bdat (upon request)
-		• code_list_dx.sas7bdat (upon request)
-		• code_list_lab.sas7bdat (upon request)
-		• code_list_pres.sas7bdat (upon request)
+		• code_list_disp.csv- to run code need: code_list_disp.sas7bdat 
+		• code_list_dx.csv-to run code need: code_list_dx.sas7bdat 
+		• code_list_lab.csv-to run code need: code_list_lab.sas7bdat 
+		• code_list_pres.csv-to run code need: code_list_pres.sas7bdat 
 		• PCSK9i_RCR_v4.sas
 		• PCSK9i_RCR_medication.sas
 		• PCSK9i_RCR_lab.sas
